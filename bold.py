@@ -11,3 +11,4 @@ class color:
    END = '\033[0m'
 
 print('\033[1mHello World !\033[0m' + ' all together')
+print('TEST GIT pyCharm')
